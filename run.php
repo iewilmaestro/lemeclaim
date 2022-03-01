@@ -6,7 +6,7 @@ a = [
 "iewil",
 "lemeclaim",
 "https://bit.ly/36P4aqE",
-"https://youtube.com/c/iewil",
+"https://youtu.be/ovod6LUnSEE",
 "https://pastebin.com/raw/RZxwy6dr",
 "http://ip-api.com/json"
 ],
